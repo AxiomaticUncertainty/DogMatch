@@ -17,8 +17,8 @@ GET /breeds
 Response:
 ```JSON
 {
-"status": 200, 
-"breeds": ["Affenpinscher", "Afghan Hound", ..., "Yorkshire Terrier"]
+  "status": 200, 
+  "breeds": ["Affenpinscher", "Afghan Hound", ..., "Yorkshire Terrier"]
 }
 ```
 

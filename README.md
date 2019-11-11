@@ -21,3 +21,12 @@ Response:
 "breeds": ["Affenpinscher", "Afghan Hound", .., "Yorkshire Terrier"]
 }
 ```
+
+### Get Random Breed
+```
+GET /breeds/random
+```
+Response:
+```JSON
+{"status":200,"breed":"German Short-haired Pointer"}
+```

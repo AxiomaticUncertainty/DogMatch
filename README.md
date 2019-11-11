@@ -18,7 +18,7 @@ Response:
 ```JSON
 {
 "status": 200, 
-"breeds": ["Affenpinscher", "Afghan Hound", . ., "Yorkshire Terrier"]
+"breeds": ["Affenpinscher", "Afghan Hound", ..., "Yorkshire Terrier"]
 }
 ```
 

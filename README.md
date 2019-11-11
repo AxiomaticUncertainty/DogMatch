@@ -57,3 +57,15 @@ Response:
   "image":"https://dogmatch.app/api/v1/images/Siberian Husky/n02110185_3540.jpg"
 }
 ```
+
+### Get Number of Images for Breed
+```
+GET /breeds/:breed/count
+```
+Response:
+```JSON
+{
+  "Status":200,
+  "Count":192
+}
+```

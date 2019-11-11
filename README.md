@@ -1,5 +1,5 @@
 # DogMatch
-Dog Rating/Adoption App and Image API
+WIP Dog Rating/Adoption App and Image API
 
 https://www.dogmatch.app/
 
